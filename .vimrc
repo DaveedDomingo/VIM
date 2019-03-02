@@ -57,7 +57,7 @@ let g:airline#extensions#branch#enabled=1
 
 " AUTO COMMANDS ===================================================="
 
-autocmd VimEnter * NERDTree
+"autocmd VimEnter * NERDTree
 
 "==================================================================="
 
