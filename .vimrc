@@ -11,6 +11,8 @@ Plug 'scrooloose/nerdtree'		" Directory Traversal
 " Code Utilities
 Plug 'gnattishness/cscope_maps'		" CScope
 Plug 'hari-rangarajan/CCTree'		" C Call-Tree Explorer
+Plug 'universal-ctags/ctags'
+Plug 'majutsushi/tagbar'
 
 " Themes
 Plug 'rakr/vim-one'			" Vim One Atom Theme
