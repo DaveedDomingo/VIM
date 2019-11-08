@@ -47,8 +47,8 @@ endif
 
 " Setup Vim-One Theme
 set background=dark " dark/light version for the vim-one theme
-colorscheme one
-let g:airline_theme='one'
+"colorscheme one
+"let g:airline_theme='one'
 
 " Setup Airline Extensions
 let g:airline#extensions#branch#enabled=1
